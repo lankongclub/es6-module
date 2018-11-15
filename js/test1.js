@@ -34,4 +34,6 @@ export {
   test1_str4
 }
 
+console.log('test1 file')
+
 // export 不能置于块级作用域
